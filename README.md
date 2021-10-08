@@ -1,5 +1,5 @@
 # DAY-4-XMLHTTPREQUEST-PRACTICE
-Guvi practice DAY 4 with XMLHTTPREquest &amp; scope
+Practice DAY 4 with XMLHTTPREquest &amp; scope
 
 1) How to compare two JSON have the same properties without order?
     var obj1 = { name: "Person 1", age:5 };
